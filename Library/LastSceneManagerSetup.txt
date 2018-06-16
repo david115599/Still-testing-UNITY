@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DAVID/Terrain/SimpleProceduralTerrain/SimpleProceduralTerrain.unity
+  isLoaded: 1
+  isActive: 1
